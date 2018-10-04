@@ -1,0 +1,14 @@
+*.log
+*.sublime-project
+*.sublime-workspace
+*.delete
+*.tmp
+*.bak
+*.env
+*.lock
+composer.json
+.env.*
+dont_upload.php
+blankfile
+archive/
+Thumbs.db

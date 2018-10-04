@@ -1,0 +1,23 @@
+.content-wrapper{
+	margin:80px 20px 30px 20px;
+}
+
+i.pdesc{
+	font-size: .8em !important;
+}
+
+.product-list-item, .user-list-item{
+	margin-top:5px !important;
+}
+
+.product-form-control, .user-form-control{
+	margin-top: 5px;
+}
+
+.product-desc{
+	text-align: justify !important;
+}
+
+#frmMsg.row .alert{
+	width: 100%;
+}
